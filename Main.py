@@ -178,8 +178,6 @@ tf.reset_default_graph()
 
 
 
-#comment main library
-
 
 
 
